@@ -13,7 +13,8 @@
 - Ubuntu, Windows
 - AWS EC2, WSL2, Colab
 - Git/Github, Papermill, WandB
-- PyTorch, Tensorflow, Huggingface, Sentence-Transformers, Scikit-learn, Gensim, OpenCV, NumPy, Pandas, Matplotlib
+- PyTorch, Tensorflow, Huggingface, Sentence-Transformers, Scikit-learn, Gensim
+- Pandas, OpenCV, NumPy, Matplotlib
 - BeautifulSoup, Selenium
 - Flask, MySQL, SQLAlchemy, Marshmallow
 
@@ -28,6 +29,8 @@
 - 추론 및 후처리를 위한 스크립트 작성
 - 후속 연구 제안
 
+---
+
 ### 신문기사 수집 및 분석을 통한 민관 맞춤 알선 시스템 개발 - 용역
 
 문서 수집 및 정제, 규칙 기반 문서 선별, 유사도 기반 문서 추천
@@ -37,6 +40,8 @@
 - 사전학습된 SBERT를 활용한 유사도 기반 문서 추천
 - 추천된 신문기사에 해당되는 공공기관을 의뢰 업체에게 제안 (시각화 자료)
 
+---
+
 ### 교육 자료 개발 - 용역
 
 - 논문 탐색 및 요약 정리
@@ -44,6 +49,8 @@
 - 폐렴 및 부정맥 진단 보조 의료 인공지능
 - YOLOV4/5/7을 활용한 객체 인식
 - StyleGAN / CycleGAN 데모
+
+---
 
 ### 감성 대화 챗봇 개발 - 부트캠프 프로젝트 평가 1위
 
@@ -54,6 +61,8 @@
 - 효과적인 유사도 훈련을 위한 데이터 구성 방법 고안
 - 모델 활용을 위한 데이터베이스 구축 및 REST API 작성
 
+---
+
 ### 온라인 쇼핑몰 상품평 속성 기반 감성 분석
 
 문서 분류, 개체명 인식, 문서 자료 증식, 모델 파이프라인, 모델 앙상블
@@ -62,6 +71,8 @@
 - 훈련 데이터 수정을 통한 개체명 인식 모델 개발
 - 모델 파이프라인 구축 및 시험
 - 각종 문서 자료 증식 기법 구현 및 정리
+
+---
 
 ### BART를 활용한 회의록 요약
 
@@ -72,6 +83,8 @@
 - Public 7위 (전체 489팀/연습참가)
 - Decoding methods 정리 (Greedy Search, Beam Search, Sampling)
 
+---
+
 ### 신문기사 주제 분류
 
 문서 분류, 문서 자료 증식, 모델 앙상블
@@ -80,11 +93,15 @@
 - 백트랜슬레이션 증식 수행
 - Public 19위 (전체 418팀/연습참가)
 
+---
+
 ### Music VAE를 활용한 드럼 비트 생성
 
 - Magenta 라이브러리를 활용한 미디 데이터 생성
 - 논문에서 제한하는 구조의 모델 정의
 - 훈련 후 샘플링 및 Inerpolation 진행
+
+---
 
 ### T5를 활용한 한영/영한 번역
 
@@ -93,6 +110,8 @@
 - 다중 언어 T5를 파인튜닝하여 한영 번역기와 영한 번역기를 개발
 - 토크나이저의 사전 크기를 고려해 10일 정도에 걸쳐 훈련을 진행
 - 수렴 이후 충분한 성능을 발휘하는 것을 BLEU 스코어를 통해 검증
+
+---
 
 ### GPT를 활용한 도메인 특정 문서 생성
 
