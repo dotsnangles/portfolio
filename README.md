@@ -146,3 +146,7 @@
 - 훈련 후 샘플링 및 Inerpolation 진행
 
 [beat-generation-with-mvae](https://github.com/dotsnangles/beat-generation-with-mvae)
+
+---
+
+[Link to Bootcamp Retrospective](https://github.com/dotsnangles/bootcamp-retrospective)
